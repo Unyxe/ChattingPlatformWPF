@@ -1,0 +1,15 @@
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\bin\Debug\ChattingPlatform.exe.config
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\bin\Debug\ChattingPlatform.exe
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\bin\Debug\ChattingPlatform.pdb
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.csprojAssemblyReference.cache
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\MainWindow.g.cs
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\App.g.cs
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform_MarkupCompile.cache
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform_MarkupCompile.lref
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\MainWindow.baml
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.g.resources
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.Properties.Resources.resources
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.csproj.GenerateResource.cache
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.csproj.CoreCompileInputs.cache
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.exe
+L:\Visual Studio 2019\ChattingPlatform\ChattingPlatform\obj\Debug\ChattingPlatform.pdb
